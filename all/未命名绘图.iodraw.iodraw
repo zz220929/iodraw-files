@@ -159,7 +159,7 @@
         <mxCell id="JBLl19HVqtGTTSi5oeQw-71" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="700" width="280" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="JBLl19HVqtGTTSi5oeQw-72" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-71">
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-72" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-71">
           <mxGeometry width="280" height="33" as="geometry" />
         </mxCell>
         <mxCell id="JBLl19HVqtGTTSi5oeQw-73" value="Title 1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#A7C942;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-72">
@@ -248,9 +248,6 @@
           <mxGeometry x="187" width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JBLl19HVqtGTTSi5oeQw-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JBLl19HVqtGTTSi5oeQw-88" target="JBLl19HVqtGTTSi5oeQw-58">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
