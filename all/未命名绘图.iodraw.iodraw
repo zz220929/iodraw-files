@@ -1,0 +1,96 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="oS-FqFPIYRr-fPtH8kCD">
+    <mxGraphModel dx="1838" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-18" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=south;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="523.64" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-19" value="role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401.82" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-30" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426.82" y="240" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-32" value="仓库" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="371.82" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-33" value="Ask Me 库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-34" value="北京库存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-38" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="510" y="400" as="sourcePoint" />
+            <mxPoint x="620" y="400.24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="539.54" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="334.54" y="400" as="sourcePoint" />
+            <mxPoint x="260" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="364.54" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-42" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="JBLl19HVqtGTTSi5oeQw-47">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="584.54" y="420" as="sourcePoint" />
+            <mxPoint x="510" y="420" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="JBLl19HVqtGTTSi5oeQw-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="370" y="420.24" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="289.53999999999996" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="JBLl19HVqtGTTSi5oeQw-44">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="260" y="420" as="sourcePoint" />
+            <mxPoint x="370" y="420.24" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-44" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="314.55" y="410" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-48" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="JBLl19HVqtGTTSi5oeQw-47">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="584.54" y="420" as="sourcePoint" />
+            <mxPoint x="510" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="614.54" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-47" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="560" y="410" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-49" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.55" y="440" as="sourcePoint" />
+            <mxPoint x="880" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-52" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="10" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-53" value="入库限制，需要仓库确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
