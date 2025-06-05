@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBLl19HVqtGTTSi5oeQw-71" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="700" width="280" height="160" as="geometry" />
+          <mxGeometry x="630" y="700" width="280" height="191" as="geometry" />
         </mxCell>
         <mxCell id="JBLl19HVqtGTTSi5oeQw-72" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-71">
           <mxGeometry width="280" height="33" as="geometry" />
@@ -245,6 +245,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JBLl19HVqtGTTSi5oeQw-91" value="Value 12" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-88">
+          <mxGeometry x="187" width="93" height="31" as="geometry">
+            <mxRectangle width="93" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-93" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=inherit;fillColor=#EAF2D3;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-71">
+          <mxGeometry y="160" width="280" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-94" value="Value 10" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-93">
+          <mxGeometry width="93" height="31" as="geometry">
+            <mxRectangle width="93" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-95" value="Value 11" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-93">
+          <mxGeometry x="93" width="94" height="31" as="geometry">
+            <mxRectangle width="94" height="31" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-96" value="Value 12" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;" vertex="1" parent="JBLl19HVqtGTTSi5oeQw-93">
           <mxGeometry x="187" width="93" height="31" as="geometry">
             <mxRectangle width="93" height="31" as="alternateBounds" />
           </mxGeometry>
