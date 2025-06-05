@@ -90,11 +90,14 @@
         <mxCell id="JBLl19HVqtGTTSi5oeQw-53" value="入库限制，需要仓库确认" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JBLl19HVqtGTTSi5oeQw-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-54" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="JBLl19HVqtGTTSi5oeQw-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="484" as="sourcePoint" />
-            <mxPoint x="470" y="710" as="targetPoint" />
+            <mxPoint x="450" y="710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JBLl19HVqtGTTSi5oeQw-55" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
